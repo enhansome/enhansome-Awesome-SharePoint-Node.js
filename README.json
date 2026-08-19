@@ -1,54 +1,9 @@
 {
-  "items": [
-    {
-      "description": "Suggest it under the issues section.",
-      "items": [],
-      "title": "Have an interesting idea for a new Node.js module, tool, library or whatever?"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Authentication & Http"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Client libraries for browser, which work in Node.JS"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "SPFx related"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Tools & CLIs"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Web applications"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Working with files"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Wrapper or helper libraries"
-    },
-    {
-      "description": "[Libraries in categories are sorted in alphabetical order.]",
-      "items": [],
-      "title": "Yeoman generators"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T13:01:36.493Z",
+    "last_updated": "2026-08-19T12:08:32.120Z",
     "original_repository": "SharePoint-NodeJS/Awesome-SharePoint-Node.js",
+    "original_repository_id": 100941003,
     "original_repository_sha": "0b388fc2c224a116342f881afce869e2581e2807",
     "enhanced_repository": "enhansome/enhansome-Awesome-SharePoint-Node.js",
     "enhanced_repository_description": null,
