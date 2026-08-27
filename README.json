@@ -755,9 +755,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:09:10.620Z",
-    "original_repository": "SharePoint-NodeJS/Awesome-SharePoint-Node.js",
-    "original_repository_id": 100941003,
+    "last_updated": "2026-08-27T11:24:45.171Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 100941003,
+      "language": "TypeScript",
+      "last_commit": "2018-10-26T06:13:01Z",
+      "owner": "SharePoint-NodeJS",
+      "repo": "Awesome-SharePoint-Node.js",
+      "stars": 100
+    },
     "original_repository_sha": "0b388fc2c224a116342f881afce869e2581e2807",
     "enhanced_repository": "enhansome/enhansome-Awesome-SharePoint-Node.js",
     "enhanced_repository_description": null,
