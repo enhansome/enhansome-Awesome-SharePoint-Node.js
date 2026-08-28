@@ -16,7 +16,8 @@
             "owner": "AzureAD",
             "repo": "azure-activedirectory-library-for-nodejs",
             "stars": 206
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "s-KaiNet",
             "repo": "node-sp-auth",
             "stars": 140
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "veeraRaghavSanthosh",
             "repo": "sharepointConnector",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "s-KaiNet",
             "repo": "sp-request",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "koltyakov",
             "repo": "sp-rest-proxy",
             "stars": 177
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         }
       ],
       "title": "Authentication & Http"
@@ -97,7 +102,8 @@
             "owner": "pnp",
             "repo": "pnpjs",
             "stars": 855
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "SharePoint",
             "repo": "PnP-JS-Core",
             "stars": 375
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "s-KaiNet",
             "repo": "node-pnp-js",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "DroopyTersen",
             "repo": "spscript",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         }
       ],
       "title": "Client libraries for browser, which work in Node.JS"
@@ -163,7 +172,8 @@
             "owner": "estruyf",
             "repo": "node-sppkg-deploy",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         },
         {
           "node_type": "item",
@@ -178,7 +188,8 @@
             "owner": "koltyakov",
             "repo": "sp-rest-proxy",
             "stars": 177
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "valorekhov",
             "repo": "sp-workbench-api-proxy",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "vman",
             "repo": "spfx-extensions-cli",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         }
       ],
       "title": "SPFx related"
@@ -229,7 +242,8 @@
             "owner": "beyond-sharepoint",
             "repo": "spo-shell",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         },
         {
           "node_type": "item",
@@ -244,7 +258,8 @@
             "owner": "olemp",
             "repo": "gulp-spcolor-stylus",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         },
         {
           "node_type": "item",
@@ -259,7 +274,8 @@
             "owner": "artokai",
             "repo": "gulp-spcolor2scss",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         },
         {
           "node_type": "item",
@@ -274,7 +290,8 @@
             "owner": "koltyakov",
             "repo": "node-sp-auth-config",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         },
         {
           "node_type": "item",
@@ -289,7 +306,8 @@
             "owner": "s-KaiNet",
             "repo": "node-pnp-js",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         },
         {
           "node_type": "item",
@@ -304,7 +322,8 @@
             "owner": "koltyakov",
             "repo": "sp-build-tasks",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         },
         {
           "node_type": "item",
@@ -319,7 +338,8 @@
             "owner": "koltyakov",
             "repo": "sp-download",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         },
         {
           "node_type": "item",
@@ -334,7 +354,8 @@
             "owner": "kyleschaeffer",
             "repo": "engineer",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         },
         {
           "node_type": "item",
@@ -349,7 +370,8 @@
             "owner": "koltyakov",
             "repo": "sp-live-reload",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         },
         {
           "node_type": "item",
@@ -364,7 +386,8 @@
             "owner": "olegrumiancev",
             "repo": "sp-listform-react",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         },
         {
           "node_type": "item",
@@ -379,7 +402,8 @@
             "owner": "olegrumiancev",
             "repo": "sp-react-formfields",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         },
         {
           "node_type": "item",
@@ -394,7 +418,8 @@
             "owner": "benamar",
             "repo": "spcmd",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         },
         {
           "node_type": "item",
@@ -409,7 +434,8 @@
             "owner": "s-KaiNet",
             "repo": "sphooks",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         }
       ],
       "title": "Tools & CLIs"
@@ -430,7 +456,8 @@
             "owner": "s-KaiNet",
             "repo": "expressjs-sp-addin",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         },
         {
           "node_type": "item",
@@ -445,7 +472,8 @@
             "owner": "s-KaiNet",
             "repo": "passport-sharepoint-addin",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         },
         {
           "node_type": "item",
@@ -460,7 +488,8 @@
             "owner": "QuePort",
             "repo": "passport-sharepoint",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         },
         {
           "node_type": "item",
@@ -475,7 +504,8 @@
             "owner": "s-KaiNet",
             "repo": "passport-sharepoint-addin",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         }
       ],
       "title": "Web applications"
@@ -496,7 +526,8 @@
             "owner": "s-KaiNet",
             "repo": "gulp-spsave",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         },
         {
           "node_type": "item",
@@ -511,7 +542,8 @@
             "owner": "wictorwilen",
             "repo": "gulp-spsync",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         },
         {
           "node_type": "item",
@@ -526,7 +558,8 @@
             "owner": "estruyf",
             "repo": "gulp-spsync-creds",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         },
         {
           "node_type": "item",
@@ -541,7 +574,8 @@
             "owner": "timegrip",
             "repo": "sharepoint-file",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         },
         {
           "node_type": "item",
@@ -556,7 +590,8 @@
             "owner": "koltyakov",
             "repo": "sp-download",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         },
         {
           "node_type": "item",
@@ -571,7 +606,8 @@
             "owner": "mwiedemeyer",
             "repo": "SPDeployment",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         },
         {
           "node_type": "item",
@@ -586,7 +622,8 @@
             "owner": "koltyakov",
             "repo": "sppull",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         },
         {
           "node_type": "item",
@@ -601,7 +638,8 @@
             "owner": "koltyakov",
             "repo": "sppurge",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         },
         {
           "node_type": "item",
@@ -616,7 +654,8 @@
             "owner": "s-KaiNet",
             "repo": "spsave",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         },
         {
           "node_type": "item",
@@ -631,7 +670,8 @@
             "owner": "yohanb",
             "repo": "spsave-webpack-plugin",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         }
       ],
       "title": "Working with files"
@@ -652,7 +692,8 @@
             "owner": "vgrem",
             "repo": "CSOMNode",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         },
         {
           "node_type": "item",
@@ -667,7 +708,8 @@
             "owner": "s-KaiNet",
             "repo": "node-pnp-js",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         },
         {
           "node_type": "item",
@@ -682,7 +724,8 @@
             "owner": "koltyakov",
             "repo": "sp-jsom-node",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         },
         {
           "node_type": "item",
@@ -697,7 +740,8 @@
             "owner": "koltyakov",
             "repo": "sp-pnp-node",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         },
         {
           "node_type": "item",
@@ -712,7 +756,8 @@
             "owner": "koltyakov",
             "repo": "sp-screwdriver",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         }
       ],
       "title": "Wrapper or helper libraries"
@@ -733,7 +778,8 @@
             "owner": "rencore",
             "repo": "generator-spcaf",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         },
         {
           "node_type": "item",
@@ -748,14 +794,15 @@
             "owner": "koltyakov",
             "repo": "generator-sppp",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T22:12:51.500Z"
         }
       ],
       "title": "Yeoman generators"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:11:50.237Z",
+    "last_updated": "2026-08-28T22:12:51.500Z",
     "original_repository_info": {
       "archived": false,
       "id": 100941003,
