@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The code for ADAL Node has been moved to the MSAL.js repo. Please open any issues or PRs at the link below.",
+            "homepage": "https://github.com/AzureAD/microsoft-authentication-library-for-js/tree/dev/maintenance/adal-node",
             "id": 17923502,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2021-08-06T17:48:14Z",
+            "open_issues": 0,
             "owner": "AzureAD",
             "repo": "azure-activedirectory-library-for-nodejs",
-            "stars": 206
+            "stars": 206,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         },
@@ -26,12 +31,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unattended SharePoint http authentication with nodejs",
+            "homepage": null,
             "id": 32420746,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-11-10T00:37:21Z",
+            "open_issues": 39,
             "owner": "s-KaiNet",
             "repo": "node-sp-auth",
-            "stars": 140
+            "stars": 140,
+            "topics": [
+              "authentication",
+              "javascript",
+              "node",
+              "node-sp",
+              "nodejs",
+              "saml",
+              "sharepoint",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         },
@@ -42,12 +61,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 48680500,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-09-16T13:47:09Z",
+            "open_issues": 3,
             "owner": "veeraRaghavSanthosh",
             "repo": "sharepointConnector",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         },
@@ -58,12 +82,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simplified SharePoint HTTP client",
+            "homepage": null,
             "id": 57063320,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-07-06T12:53:39Z",
+            "open_issues": 8,
             "owner": "s-KaiNet",
             "repo": "sp-request",
-            "stars": 55
+            "stars": 55,
+            "topics": [
+              "javascript",
+              "node-sp",
+              "nodejs",
+              "request",
+              "sharepoint",
+              "sp-request",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         },
@@ -74,12 +111,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌐 SharePoint API Proxy for local development",
+            "homepage": null,
             "id": 67223399,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-08T07:12:05Z",
+            "open_issues": 11,
             "owner": "koltyakov",
             "repo": "sp-rest-proxy",
-            "stars": 177
+            "stars": 177,
+            "topics": [
+              "angular",
+              "api",
+              "developer-tools",
+              "javascript",
+              "nodejs",
+              "proxy",
+              "react",
+              "rest",
+              "sharepoint",
+              "sharepoint-online",
+              "spfx",
+              "workbench"
+            ]
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         }
@@ -96,12 +151,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fluent JavaScript API for SharePoint and Microsoft Graph REST APIs",
+            "homepage": "https://pnp.github.io/pnpjs/",
             "id": 102124491,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T15:02:01Z",
+            "open_issues": 2,
             "owner": "pnp",
             "repo": "pnpjs",
-            "stars": 855
+            "stars": 855,
+            "topics": [
+              "hacktoberfest",
+              "pnpjs",
+              "sharepoint"
+            ]
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         },
@@ -112,12 +176,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Code moved to https://github.com/pnp/pnpjs. This repository is archived.",
+            "homepage": null,
             "id": 53142322,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-08-28T13:20:02Z",
+            "open_issues": 0,
             "owner": "SharePoint",
             "repo": "PnP-JS-Core",
-            "stars": 375
+            "stars": 375,
+            "topics": [
+              "fluent-interface",
+              "javascript",
+              "microsoft",
+              "pnp",
+              "rest",
+              "sharepoint",
+              "sharepoint-patterns",
+              "sp-pnp-js",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         },
@@ -128,12 +207,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "PnP-JS-Core (sp-pnp-js) with Node.js made easy",
+            "homepage": null,
             "id": 92203221,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2018-09-07T16:59:05Z",
+            "open_issues": 0,
             "owner": "s-KaiNet",
             "repo": "node-pnp-js",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "nodejs",
+              "pnp",
+              "pnp-js-core",
+              "sharepoint"
+            ]
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         },
@@ -144,12 +233,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript library that simplifies working with the SharePoint Rest API",
+            "homepage": "https://spscript.com",
             "id": 17202499,
             "language": "HTML",
+            "license": null,
             "last_commit": "2023-01-06T07:37:36Z",
+            "open_issues": 32,
             "owner": "DroopyTersen",
             "repo": "spscript",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         }
@@ -166,12 +260,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "SharePoint APP Package Deployment",
+            "homepage": null,
             "id": 100010831,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2019-02-13T08:20:30Z",
+            "open_issues": 2,
             "owner": "estruyf",
             "repo": "node-sppkg-deploy",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         },
@@ -182,12 +281,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌐 SharePoint API Proxy for local development",
+            "homepage": null,
             "id": 67223399,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-08T07:12:05Z",
+            "open_issues": 11,
             "owner": "koltyakov",
             "repo": "sp-rest-proxy",
-            "stars": 177
+            "stars": 177,
+            "topics": [
+              "angular",
+              "api",
+              "developer-tools",
+              "javascript",
+              "nodejs",
+              "proxy",
+              "react",
+              "rest",
+              "sharepoint",
+              "sharepoint-online",
+              "spfx",
+              "workbench"
+            ]
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         },
@@ -198,12 +315,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Provides an authenticated proxy to Office 365 + SharePoint Online or an on-prem SharePoint installation. Use as a part of development with SpFx Workbench or a custom toolchain.",
+            "homepage": null,
             "id": 99962483,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2017-09-08T19:07:28Z",
+            "open_issues": 0,
             "owner": "valorekhov",
             "repo": "sp-workbench-api-proxy",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         },
@@ -214,12 +336,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "CLI tool to manage SPFx extensions",
+            "homepage": null,
             "id": 100970049,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-11-01T12:12:35Z",
+            "open_issues": 0,
             "owner": "vman",
             "repo": "spfx-extensions-cli",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         }
@@ -236,12 +363,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "spo-shell is a cross-platform implementation of SharePoint shell commands written in straight ES6. No powershell cmdlets and confusing PnP installs.",
+            "homepage": null,
             "id": 67239807,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-09-27T20:18:51Z",
+            "open_issues": 1,
             "owner": "beyond-sharepoint",
             "repo": "spo-shell",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         },
@@ -252,12 +384,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 84562553,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-03-15T09:03:52Z",
+            "open_issues": 0,
             "owner": "olemp",
             "repo": "gulp-spcolor-stylus",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         },
@@ -268,12 +405,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert SharePoint spcolor-files to Sass partials",
+            "homepage": null,
             "id": 57069426,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-04-26T14:35:48Z",
+            "open_issues": 0,
             "owner": "artokai",
             "repo": "gulp-spcolor2scss",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         },
@@ -284,12 +426,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔧 Config options builder for node-sp-auth (SharePoint Authentication in Node.js)",
+            "homepage": null,
             "id": 90735229,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-08T07:59:32Z",
+            "open_issues": 5,
             "owner": "koltyakov",
             "repo": "node-sp-auth-config",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "authentication",
+              "cli",
+              "javascript",
+              "node-sp-auth",
+              "nodejs",
+              "sharepoint",
+              "sharepoint-online",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         },
@@ -300,12 +456,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "PnP-JS-Core (sp-pnp-js) with Node.js made easy",
+            "homepage": null,
             "id": 92203221,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2018-09-07T16:59:05Z",
+            "open_issues": 0,
             "owner": "s-KaiNet",
             "repo": "node-pnp-js",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "nodejs",
+              "pnp",
+              "pnp-js-core",
+              "sharepoint"
+            ]
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         },
@@ -316,12 +482,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👷 SharePoint front-end projects automation and tasks tool-belt",
+            "homepage": null,
             "id": 91813072,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-11-29T06:40:26Z",
+            "open_issues": 3,
             "owner": "koltyakov",
             "repo": "sp-build-tasks",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "automation",
+              "build",
+              "gulp",
+              "javascript",
+              "nodejs",
+              "pnpjs",
+              "react",
+              "sharepoint",
+              "tasks",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         },
@@ -332,12 +514,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SharePoint files download client in Node.js",
+            "homepage": null,
             "id": 100793165,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-08T05:50:06Z",
+            "open_issues": 5,
             "owner": "koltyakov",
             "repo": "sp-download",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "cli",
+              "client",
+              "download",
+              "javascript",
+              "nodejs",
+              "sharepoint",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         },
@@ -348,12 +543,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A powerful command-line tool for configuring SharePoint site columns, content types, lists, views, and more",
+            "homepage": "http://sp-engineer.org",
             "id": 105699061,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-07-15T21:02:11Z",
+            "open_issues": 4,
             "owner": "kyleschaeffer",
             "repo": "engineer",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "provisioning",
+              "sharepoint"
+            ]
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         },
@@ -364,12 +567,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SharePoint pages live reload module for client side development",
+            "homepage": null,
             "id": 72847343,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-04T05:18:41Z",
+            "open_issues": 2,
             "owner": "koltyakov",
             "repo": "sp-live-reload",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "developer-tools",
+              "frontend",
+              "hot-reload",
+              "javascript",
+              "nodejs",
+              "sharepoint",
+              "sharepoint-online"
+            ]
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         },
@@ -380,12 +596,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 139472873,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-07-30T03:03:08Z",
+            "open_issues": 2,
             "owner": "olegrumiancev",
             "repo": "sp-listform-react",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         },
@@ -396,12 +617,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 133077387,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2018-08-13T20:22:28Z",
+            "open_issues": 3,
             "owner": "olegrumiancev",
             "repo": "sp-react-formfields",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         },
@@ -412,12 +638,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "office 365 shell command utilities",
+            "homepage": null,
             "id": 93059410,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-10-08T14:25:10Z",
+            "open_issues": 0,
             "owner": "benamar",
             "repo": "spcmd",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         },
@@ -428,12 +659,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform CLI for managing SharePoint list web hooks",
+            "homepage": null,
             "id": 100519712,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-11-01T18:39:33Z",
+            "open_issues": 0,
             "owner": "s-KaiNet",
             "repo": "sphooks",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "nodejs",
+              "sharepoint-online",
+              "typescript",
+              "webhooks"
+            ]
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         }
@@ -450,12 +691,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SharePoint add-in with Express.js and PnP-JS-Core",
+            "homepage": null,
             "id": 94926365,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2017-08-09T00:20:54Z",
+            "open_issues": 0,
             "owner": "s-KaiNet",
             "repo": "expressjs-sp-addin",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "expressjs",
+              "passportjs",
+              "sharepoint",
+              "sharepoint-appmodel"
+            ]
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         },
@@ -466,12 +717,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Passport.js authentication middleware for SharePoint add-in",
+            "homepage": null,
             "id": 94929291,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2017-08-09T00:22:42Z",
+            "open_issues": 0,
             "owner": "s-KaiNet",
             "repo": "passport-sharepoint-addin",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "expressjs",
+              "nodejs",
+              "passportjs",
+              "sharepoint",
+              "sharepoint-online"
+            ]
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         },
@@ -482,12 +744,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SharePoint authentication strategy for Passport and Node.js.",
+            "homepage": null,
             "id": 7081839,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-10-21T10:49:13Z",
+            "open_issues": 3,
             "owner": "QuePort",
             "repo": "passport-sharepoint",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         },
@@ -498,12 +765,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Passport.js authentication middleware for SharePoint add-in",
+            "homepage": null,
             "id": 94929291,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2017-08-09T00:22:42Z",
+            "open_issues": 0,
             "owner": "s-KaiNet",
             "repo": "passport-sharepoint-addin",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "expressjs",
+              "nodejs",
+              "passportjs",
+              "sharepoint",
+              "sharepoint-online"
+            ]
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         }
@@ -520,12 +798,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gulp plugin for saving files inside SharePoint",
+            "homepage": null,
             "id": 40801393,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-07-27T11:43:35Z",
+            "open_issues": 1,
             "owner": "s-KaiNet",
             "repo": "gulp-spsave",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "gulp",
+              "javascript",
+              "sharepoint",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         },
@@ -536,12 +824,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gulp plugin for synchronizing local files with a SharePoint library",
+            "homepage": null,
             "id": 45234029,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-08-18T10:35:59Z",
+            "open_issues": 6,
             "owner": "wictorwilen",
             "repo": "gulp-spsync",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "gulp",
+              "gulp-plugins",
+              "office365",
+              "sharepoint",
+              "sharepoint-online",
+              "spfx"
+            ]
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         },
@@ -552,12 +852,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Gulp plugin for synchronizing local files with a SharePoint library via user credentials",
+            "homepage": null,
             "id": 60606077,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-04-05T20:06:37Z",
+            "open_issues": 1,
             "owner": "estruyf",
             "repo": "gulp-spsync-creds",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "gulp-plugin",
+              "sharepoint"
+            ]
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         },
@@ -568,12 +876,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sharepoint file operations",
+            "homepage": null,
             "id": 53336748,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-07-25T08:03:27Z",
+            "open_issues": 0,
             "owner": "timegrip",
             "repo": "sharepoint-file",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         },
@@ -584,12 +897,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SharePoint files download client in Node.js",
+            "homepage": null,
             "id": 100793165,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-08T05:50:06Z",
+            "open_issues": 5,
             "owner": "koltyakov",
             "repo": "sp-download",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "cli",
+              "client",
+              "download",
+              "javascript",
+              "nodejs",
+              "sharepoint",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         },
@@ -600,12 +926,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "SPDeployment is a command line tool to deploy all kind of files to SharePoint / Office 365 and set properties if specified.",
+            "homepage": null,
             "id": 43948267,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2018-10-16T09:48:27Z",
+            "open_issues": 1,
             "owner": "mwiedemeyer",
             "repo": "SPDeployment",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         },
@@ -616,12 +947,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📎 Download files from SharePoint document libraries using Node.js without hassles",
+            "homepage": null,
             "id": 66185962,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-08T07:20:03Z",
+            "open_issues": 8,
             "owner": "koltyakov",
             "repo": "sppull",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "developer-tools",
+              "downloader",
+              "javascript",
+              "nodejs",
+              "sharepoint",
+              "sharepoint-online"
+            ]
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         },
@@ -632,12 +975,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Delete files from SharePoint document libraries using Node.js without hassles",
+            "homepage": null,
             "id": 76486262,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-31T01:00:50Z",
+            "open_issues": 1,
             "owner": "koltyakov",
             "repo": "sppurge",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "delete",
+              "developer-tools",
+              "javascript",
+              "nodejs",
+              "sharepoint",
+              "sharepoint-online",
+              "tasks"
+            ]
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         },
@@ -648,12 +1004,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Save files in SharePoint using node.js easily",
+            "homepage": null,
             "id": 40801448,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-05-28T20:05:42Z",
+            "open_issues": 11,
             "owner": "s-KaiNet",
             "repo": "spsave",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "javascript",
+              "sharepoint",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         },
@@ -664,12 +1029,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a Webpack plugin that allows you upload generated assets to a SharePoint site.",
+            "homepage": null,
             "id": 76272115,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-12-15T05:47:52Z",
+            "open_issues": 4,
             "owner": "yohanb",
             "repo": "spsave-webpack-plugin",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         }
@@ -686,12 +1056,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "SharePoint Client Object Model (CSOM) API for Node.js",
+            "homepage": null,
             "id": 49795752,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-10-18T12:56:48Z",
+            "open_issues": 3,
             "owner": "vgrem",
             "repo": "CSOMNode",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "javascript",
+              "sharepoint",
+              "sharepoint-client"
+            ]
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         },
@@ -702,12 +1081,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "PnP-JS-Core (sp-pnp-js) with Node.js made easy",
+            "homepage": null,
             "id": 92203221,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2018-09-07T16:59:05Z",
+            "open_issues": 0,
             "owner": "s-KaiNet",
             "repo": "node-pnp-js",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "nodejs",
+              "pnp",
+              "pnp-js-core",
+              "sharepoint"
+            ]
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         },
@@ -718,12 +1107,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚴 SharePoint JavaScript Object Model for Node.js",
+            "homepage": null,
             "id": 92929051,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-31T00:58:34Z",
+            "open_issues": 1,
             "owner": "koltyakov",
             "repo": "sp-jsom-node",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "api",
+              "jsom",
+              "nodejs",
+              "sharepoint",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         },
@@ -734,12 +1134,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SharePoint JavaScript Core Library wrapper helper for Node.js",
+            "homepage": null,
             "id": 91610137,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-10T20:28:36Z",
+            "open_issues": 2,
             "owner": "koltyakov",
             "repo": "sp-pnp-node",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "api",
+              "authentication",
+              "client",
+              "javascript",
+              "nodejs",
+              "rest-api",
+              "sharepoint",
+              "sp-pnp-js",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         },
@@ -750,12 +1165,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adds missing and abstracts SharePoint APIs for transparent usage in Node.js applications",
+            "homepage": null,
             "id": 79220149,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-31T00:59:38Z",
+            "open_issues": 0,
             "owner": "koltyakov",
             "repo": "sp-screwdriver",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "api",
+              "developer-tools",
+              "extentions",
+              "javascript",
+              "managed-metadata",
+              "nodejs",
+              "sharepoint",
+              "sharepoint-online",
+              "user-profiles-services"
+            ]
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         }
@@ -772,12 +1202,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yeoman generator to add support for running SPCAF analysis on SharePoint Framework projects",
+            "homepage": null,
             "id": 70486306,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2017-06-05T07:54:54Z",
+            "open_issues": 0,
             "owner": "rencore",
             "repo": "generator-spcaf",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "analysis",
+              "gulp",
+              "sharepoint-framework",
+              "spcaf",
+              "spfx",
+              "yeoman-generator"
+            ]
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         },
@@ -788,12 +1230,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐾 SP Pull-n-Push - Yeoman generator for SharePoint client-side applications",
+            "homepage": null,
             "id": 66716306,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-05T02:41:24Z",
+            "open_issues": 3,
             "owner": "koltyakov",
             "repo": "generator-sppp",
-            "stars": 68
+            "stars": 68,
+            "topics": [
+              "assets",
+              "developer-tools",
+              "generator",
+              "pnpjs",
+              "react",
+              "scaffolding",
+              "sharepoint",
+              "sharepoint-online",
+              "typescript",
+              "webpack",
+              "yeoman-generator"
+            ]
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
         }
@@ -802,15 +1261,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:12:51.500Z",
+    "last_updated": "2026-08-29T04:58:00.489Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of libraries and tools for Node.js runtime dealing with SharePoint",
+      "homepage": null,
       "id": 100941003,
       "language": "TypeScript",
+      "license": null,
       "last_commit": "2018-10-26T06:13:01Z",
+      "open_issues": 1,
       "owner": "SharePoint-NodeJS",
       "repo": "Awesome-SharePoint-Node.js",
-      "stars": 100
+      "stars": 100,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "javascript",
+        "nodejs",
+        "sharepoint",
+        "typescript"
+      ]
     },
     "original_repository_sha": "0b388fc2c224a116342f881afce869e2581e2807",
     "enhanced_repository": "enhansome/enhansome-Awesome-SharePoint-Node.js",
