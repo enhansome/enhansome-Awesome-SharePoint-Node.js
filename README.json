@@ -491,7 +491,7 @@
             "open_issues": 3,
             "owner": "koltyakov",
             "repo": "sp-build-tasks",
-            "stars": 17,
+            "stars": 16,
             "topics": [
               "automation",
               "build",
@@ -935,7 +935,7 @@
             "open_issues": 1,
             "owner": "mwiedemeyer",
             "repo": "SPDeployment",
-            "stars": 13,
+            "stars": 12,
             "topics": []
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
@@ -1235,8 +1235,8 @@
             "id": 66716306,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-05T02:41:24Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-02T01:36:59Z",
+            "open_issues": 4,
             "owner": "koltyakov",
             "repo": "generator-sppp",
             "stars": 68,
@@ -1261,7 +1261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T16:30:35.254Z",
+    "last_updated": "2026-09-02T16:28:50.475Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of libraries and tools for Node.js runtime dealing with SharePoint",
