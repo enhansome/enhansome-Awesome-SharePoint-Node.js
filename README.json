@@ -157,7 +157,7 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-04T22:52:12Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "pnp",
             "repo": "pnpjs",
             "stars": 856,
@@ -1261,7 +1261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T17:42:12.164Z",
+    "last_updated": "2026-09-08T16:32:31.582Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of libraries and tools for Node.js runtime dealing with SharePoint",
