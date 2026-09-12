@@ -1170,8 +1170,8 @@
             "id": 79220149,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-07-31T00:59:38Z",
-            "open_issues": 0,
+            "last_commit": "2026-09-12T04:19:02Z",
+            "open_issues": 1,
             "owner": "koltyakov",
             "repo": "sp-screwdriver",
             "stars": 15,
@@ -1261,7 +1261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T16:22:00.469Z",
+    "last_updated": "2026-09-12T15:26:58.191Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of libraries and tools for Node.js runtime dealing with SharePoint",

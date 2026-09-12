@@ -102,7 +102,7 @@ Suggest it under the issues section.
 | [node-pnp-js](https://github.com/s-KaiNet/node-pnp-js) ⚠️ Archived                                           | [![npm](https://img.shields.io/npm/v/node-pnp-js.svg)](https://www.npmjs.com/package/node-pnp-js) [![npm](https://img.shields.io/npm/dm/node-pnp-js.svg)](https://www.npmjs.com/package/node-pnp-js) [![npm](https://img.shields.io/npm/dt/node-pnp-js.svg)](https://www.npmjs.com/package/node-pnp-js)                   | PnP-JS-Core (sp-pnp-js) with Node.js made easy.                                           |
 | [sp-jsom-node](https://github.com/koltyakov/sp-jsom-node) ⭐ 22 \| 🐛 3 \| 🌐 JavaScript \| 📅 2026-09-09     | [![npm](https://img.shields.io/npm/v/sp-jsom-node.svg)](https://www.npmjs.com/package/sp-jsom-node) [![npm](https://img.shields.io/npm/dm/sp-jsom-node.svg)](https://www.npmjs.com/package/sp-jsom-node) [![npm](https://img.shields.io/npm/dt/sp-jsom-node.svg)](https://www.npmjs.com/package/sp-jsom-node)             | SharePoint JavaScript Object Model for Node.js.                                           |
 | [sp-pnp-node](https://github.com/koltyakov/sp-pnp-node) ⭐ 25 \| 🐛 2 \| 🌐 TypeScript \| 📅 2026-08-10       | [![npm](https://img.shields.io/npm/v/sp-pnp-node.svg)](https://www.npmjs.com/package/sp-pnp-node) [![npm](https://img.shields.io/npm/dm/sp-pnp-node.svg)](https://www.npmjs.com/package/sp-pnp-node) [![npm](https://img.shields.io/npm/dt/sp-pnp-node.svg)](https://www.npmjs.com/package/sp-pnp-node)                   | SharePoint JavaScript Core Library wrapper helper for Node.js.                            |
-| [sp-screwdriver](https://github.com/koltyakov/sp-screwdriver) ⭐ 15 \| 🐛 0 \| 🌐 TypeScript \| 📅 2026-07-31 | [![npm](https://img.shields.io/npm/v/sp-screwdriver.svg)](https://www.npmjs.com/package/sp-screwdriver) [![npm](https://img.shields.io/npm/dm/sp-screwdriver.svg)](https://www.npmjs.com/package/sp-screwdriver) [![npm](https://img.shields.io/npm/dt/sp-screwdriver.svg)](https://www.npmjs.com/package/sp-screwdriver) | Adds missing and abstracts SharePoint APIs for transparent usage in Node.js applications. |
+| [sp-screwdriver](https://github.com/koltyakov/sp-screwdriver) ⭐ 15 \| 🐛 1 \| 🌐 TypeScript \| 📅 2026-09-12 | [![npm](https://img.shields.io/npm/v/sp-screwdriver.svg)](https://www.npmjs.com/package/sp-screwdriver) [![npm](https://img.shields.io/npm/dm/sp-screwdriver.svg)](https://www.npmjs.com/package/sp-screwdriver) [![npm](https://img.shields.io/npm/dt/sp-screwdriver.svg)](https://www.npmjs.com/package/sp-screwdriver) | Adds missing and abstracts SharePoint APIs for transparent usage in Node.js applications. |
 
 ## Yeoman generators
 
@@ -117,4 +117,4 @@ Suggest it under the issues section.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
