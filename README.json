@@ -160,7 +160,7 @@
             "open_issues": 2,
             "owner": "pnp",
             "repo": "pnpjs",
-            "stars": 858,
+            "stars": 859,
             "topics": [
               "hacktoberfest",
               "pnpjs",
@@ -1261,7 +1261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T15:48:04.484Z",
+    "last_updated": "2026-09-20T15:56:55.649Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of libraries and tools for Node.js runtime dealing with SharePoint",
