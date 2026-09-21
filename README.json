@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "AzureAD",
             "repo": "azure-activedirectory-library-for-nodejs",
-            "stars": 206,
+            "stars": 205,
             "topics": []
           },
           "first_seen": "2026-08-28T22:12:51.500Z"
@@ -1261,7 +1261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T15:56:55.649Z",
+    "last_updated": "2026-09-21T18:10:50.441Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of libraries and tools for Node.js runtime dealing with SharePoint",
