@@ -1112,8 +1112,8 @@
             "id": 92929051,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T01:05:18Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-02T00:31:53Z",
+            "open_issues": 4,
             "owner": "koltyakov",
             "repo": "sp-jsom-node",
             "stars": 22,
@@ -1261,7 +1261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T18:22:18.609Z",
+    "last_updated": "2026-10-02T17:48:22.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of libraries and tools for Node.js runtime dealing with SharePoint",
