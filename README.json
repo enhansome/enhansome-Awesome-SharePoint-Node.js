@@ -116,8 +116,8 @@
             "id": 67223399,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T23:19:17Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-03T00:49:12Z",
+            "open_issues": 13,
             "owner": "koltyakov",
             "repo": "sp-rest-proxy",
             "stars": 177,
@@ -172,7 +172,7 @@
         {
           "node_type": "item",
           "title": "PnP-JS-Core",
-          "description": null,
+          "description": "SharePoint/PnP-JS-Core",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -286,8 +286,8 @@
             "id": 67223399,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T23:19:17Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-03T00:49:12Z",
+            "open_issues": 13,
             "owner": "koltyakov",
             "repo": "sp-rest-proxy",
             "stars": 177,
@@ -422,7 +422,7 @@
         {
           "node_type": "item",
           "title": "node-sp-auth-config",
-          "description": null,
+          "description": "koltyakov/node-sp-auth-config",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -431,8 +431,8 @@
             "id": 90735229,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T01:04:05Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-03T01:57:50Z",
+            "open_issues": 6,
             "owner": "koltyakov",
             "repo": "node-sp-auth-config",
             "stars": 21,
@@ -452,7 +452,7 @@
         {
           "node_type": "item",
           "title": "Config options builder for node-sp-auth",
-          "description": ".",
+          "description": "s-KaiNet/node-pnp-js",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -592,7 +592,7 @@
         {
           "node_type": "item",
           "title": "sp-listform-react, sp-react-formfields",
-          "description": null,
+          "description": "olegrumiancev/sp-listform-react",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -687,7 +687,7 @@
         {
           "node_type": "item",
           "title": "expressjs-sp-addin",
-          "description": null,
+          "description": "s-KaiNet/expressjs-sp-addin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1261,7 +1261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T17:48:22.321Z",
+    "last_updated": "2026-10-03T04:27:20.023Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of libraries and tools for Node.js runtime dealing with SharePoint",
