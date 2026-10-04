@@ -116,8 +116,8 @@
             "id": 67223399,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T00:49:12Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-04T14:16:58Z",
+            "open_issues": 14,
             "owner": "koltyakov",
             "repo": "sp-rest-proxy",
             "stars": 176,
@@ -286,8 +286,8 @@
             "id": 67223399,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T00:49:12Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-04T14:16:58Z",
+            "open_issues": 14,
             "owner": "koltyakov",
             "repo": "sp-rest-proxy",
             "stars": 176,
@@ -1261,7 +1261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T16:08:29.386Z",
+    "last_updated": "2026-10-04T16:47:39.255Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of libraries and tools for Node.js runtime dealing with SharePoint",
