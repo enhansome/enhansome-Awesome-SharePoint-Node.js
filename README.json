@@ -572,8 +572,8 @@
             "id": 72847343,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T13:32:15Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-10T18:24:48Z",
+            "open_issues": 4,
             "owner": "koltyakov",
             "repo": "sp-live-reload",
             "stars": 25,
@@ -1139,8 +1139,8 @@
             "id": 91610137,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T06:40:24Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-10T23:03:08Z",
+            "open_issues": 4,
             "owner": "koltyakov",
             "repo": "sp-pnp-node",
             "stars": 25,
@@ -1261,7 +1261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T17:17:25.529Z",
+    "last_updated": "2026-10-11T17:39:05.056Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of libraries and tools for Node.js runtime dealing with SharePoint",
