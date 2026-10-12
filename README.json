@@ -156,8 +156,8 @@
             "id": 102124491,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T15:15:31Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-12T14:47:27Z",
+            "open_issues": 1,
             "owner": "pnp",
             "repo": "pnpjs",
             "stars": 860,
@@ -1235,8 +1235,8 @@
             "id": 66716306,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T04:42:00Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-12T11:02:21Z",
+            "open_issues": 10,
             "owner": "koltyakov",
             "repo": "generator-sppp",
             "stars": 68,
@@ -1261,7 +1261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T17:39:05.056Z",
+    "last_updated": "2026-10-12T21:12:54.143Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of libraries and tools for Node.js runtime dealing with SharePoint",
