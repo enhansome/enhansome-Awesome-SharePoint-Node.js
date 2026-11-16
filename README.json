@@ -160,7 +160,7 @@
             "open_issues": 1,
             "owner": "pnp",
             "repo": "pnpjs",
-            "stars": 862,
+            "stars": 863,
             "topics": [
               "hacktoberfest",
               "pnpjs",
@@ -1235,7 +1235,7 @@
             "id": 66716306,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T11:02:21Z",
+            "last_commit": "2026-11-16T12:57:35Z",
             "open_issues": 10,
             "owner": "koltyakov",
             "repo": "generator-sppp",
@@ -1261,7 +1261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T18:44:44.295Z",
+    "last_updated": "2026-11-16T21:55:12.298Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of libraries and tools for Node.js runtime dealing with SharePoint",
