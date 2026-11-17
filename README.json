@@ -871,27 +871,6 @@
         },
         {
           "node_type": "item",
-          "title": "sharepoint-file",
-          "description": "A command-line utility for Sharepoint file operations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Sharepoint file operations",
-            "homepage": null,
-            "id": 53336748,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2017-07-25T08:03:27Z",
-            "open_issues": 0,
-            "owner": "timegrip",
-            "repo": "sharepoint-file",
-            "stars": 1,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:12:51.500Z"
-        },
-        {
-          "node_type": "item",
           "title": "sp-download",
           "description": "SharePoint files download client (library and CLI) in Node.js.",
           "children": [],
@@ -1261,7 +1240,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T21:55:12.298Z",
+    "last_updated": "2026-11-17T20:46:00.122Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of libraries and tools for Node.js runtime dealing with SharePoint",
