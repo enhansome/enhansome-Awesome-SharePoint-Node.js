@@ -185,7 +185,7 @@
             "open_issues": 0,
             "owner": "SharePoint",
             "repo": "PnP-JS-Core",
-            "stars": 376,
+            "stars": 374,
             "topics": [
               "fluent-interface",
               "javascript",
@@ -1240,7 +1240,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T20:22:30.161Z",
+    "last_updated": "2026-11-19T20:26:43.752Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of libraries and tools for Node.js runtime dealing with SharePoint",
